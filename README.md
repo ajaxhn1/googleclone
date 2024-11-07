@@ -1,3 +1,3 @@
-[Google Clone]( https://ajaxhn1.github.io/googleclone/)
+[Google Clone Live link]( https://ajaxhn1.github.io/googleclone/)
 
 ![page imag](./googleclone.JPG)
